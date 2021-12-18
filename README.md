@@ -1,7 +1,16 @@
 # raccoon
 UP Raccoon main repo
 
+## ROS
+[ROS repo](https://github.com/gbr1/raccoon_ros)
 
-W.I.P.
+## Documentation
+[Documentation repo](https://github.com/gbr1/raccoon_docs)
 
-![placeholder](https://user-images.githubusercontent.com/9216366/142926431-56335ae7-f4e2-4dbb-9367-2c9fd082565e.gif)
+## Related
+[Firmware for the moebiustech](https://github.com/gbr1/moebiustech_stm32_firmware)
+[ROS node for the moebiustech](https://github.com/gbr1/moebiustech_stm32_ros)
+
+---
+> ***Copyright © 2021 Giovanni di Dio Bruno under MIT license***
+---
