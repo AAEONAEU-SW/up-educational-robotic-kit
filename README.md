@@ -1,6 +1,6 @@
 # UP Raccoon
 UP Raccoon main repo
-
+![https://github.com/gbr1/raccoon_docs/blob/main/doc_images/others/robot.jpg](https://github.com/gbr1/raccoon_docs/blob/main/doc_images/others/robot.jpg)
 ## ROS
 [ROS repo](https://github.com/gbr1/raccoon_ros)
 
