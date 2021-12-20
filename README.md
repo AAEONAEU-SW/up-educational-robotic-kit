@@ -1,4 +1,4 @@
-# UP Raccoon
+# UP Educational Robotic Development Kit (Raccoon)
 
 ![https://github.com/AAEONAEU-SW/raccoon_docs/blob/main/doc_images/others/robot.jpg](https://github.com/AAEONAEU-SW/raccoon_docs/blob/main/doc_images/others/robot.jpg)
 ## ROS
